@@ -31,7 +31,8 @@
 
 ### 인프라
 
-![image](https://github.com/user-attachments/assets/b9c3348a-dd96-4e15-aadc-90fe26e75015)
+![image](https://github.com/user-attachments/assets/a73f79fb-1c41-457a-8216-821f265ec9f8)
+
 
 - 백엔드 개발자와 인프라 운영 관리자가 협업 하여 테라폼을 통해 리소스를 관리하고 있습니다.
 - 위 이미지의 아키텍처 설계는 DAU 10 명 미만, MAU 100명 미만의 초기 설계 과정을 바탕으로 작성 되었습니다.
