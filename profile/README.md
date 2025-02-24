@@ -1,4 +1,4 @@
-# 스토리드
+<h1 align="middle">스토리드</h1>
 
 <br>
 
@@ -18,7 +18,7 @@
 
 </br>
 
-## 스토리드를 지탱하는 요소들
+<h2 align="middle">스토리드를 지탱하는 요소들</h2>
 
 ### 협업 툴
 
@@ -31,7 +31,7 @@
 
 ### 인프라
 
-![image](https://github.com/user-attachments/assets/a73f79fb-1c41-457a-8216-821f265ec9f8)
+![image](https://github.com/user-attachments/assets/c870e2b7-5a07-46aa-a6c4-0f143f0f635c)
 
 
 - 백엔드 개발자와 인프라 운영 관리자가 협업 하여 테라폼을 통해 리소스를 관리하고 있습니다.
